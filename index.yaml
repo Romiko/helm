@@ -3,9 +3,10 @@ entries:
   wordpress:
   - apiVersion: v1
     appVersion: 5.3.2
-    created: "2020-06-15T12:49:59.4900066+10:00"
-    description: Romiko - Web publishing platform for building blogs and websites.
-    digest: 5b0df68909c97d87984f248885f6e8b5c844343a8d34c179d047f5c57524286d
+    created: "2020-06-15T13:12:10.9799017+10:00"
+    description: Romiko - Web publishing platform for building blogs and websites
+      No PVC.
+    digest: 1410f901c4c18994f007ade9ee2d22b5107cdeac8f36d21f86ef36b7fb3632d4
     engine: gotpl
     home: http://www.wordpress.com/
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
@@ -21,6 +22,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-wordpress
     urls:
-    - wordpress-9.0.3.tgz
-    version: 9.0.3
-generated: "2020-06-15T12:49:59.4877317+10:00"
+    - wordpress-10.0.3.tgz
+    version: 10.0.3
+generated: "2020-06-15T13:12:10.9779791+10:00"
